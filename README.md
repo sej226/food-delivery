@@ -758,7 +758,7 @@ kubectl set image ...
 - seige 의 화면으로 넘어가서 Availability 가 100% 미만으로 떨어졌는지 확인
 ```
 Transactions:		        3078 hits
-Availability:		       70.45 %
+Availability:		       72.45 %
 Elapsed time:		       120 secs
 Data transferred:	        0.34 MB
 Response time:		        5.60 secs
